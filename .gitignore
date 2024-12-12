@@ -1,0 +1,24 @@
+# Project dependencies
+node_modules/
+
+# TypeChain files
+typechain/
+typechain-types/
+
+# IDE-specific files
+.idea/
+.vscode/
+.history/
+*.vsix
+
+# Version manager files
+.tool-versions
+
+# Environment variables
+.env
+
+# Other files and directories
+tmp/
+flatten/
+package-lock.json
+loanTrackedBalances.json
